@@ -1,0 +1,2 @@
+In this directory are saved the MLP best models during the training. 
+The model saved at the end of the last training epoch is called lastmodelN.hdf5, where N is the Fold number in KFold validation framework.
