@@ -5,13 +5,9 @@ Univariate Imputation with neural network
 
 
 the Software is written in python using the follows main modules:
-
 pandas=0.24.1
-
 keras=2.2.4
-
 you can install python anaconda3 and use conda package manager
-
 conda install keras=2.2.4 pandas=2.2.4
 
 
